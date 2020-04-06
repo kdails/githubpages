@@ -98,7 +98,7 @@
       {
          "mimeType" : "image/png",
          "name" : "Coati_mat-image",
-         "uri" : "Coati_BaseColor.png"
+         "uri" : "/Coati_BaseColor.png"
       }
    ],
    "materials" : [
