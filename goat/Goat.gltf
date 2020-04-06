@@ -92,7 +92,7 @@
       {
          "mimeType" : "image/png",
          "name" : "Goat_mat-image",
-         "uri" : "Goat_BaseColor.png"
+         "uri" : "/Goat_BaseColor.png"
       }
    ],
    "materials" : [
