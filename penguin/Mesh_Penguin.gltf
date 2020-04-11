@@ -115,7 +115,7 @@
             {
                "attributes" : {
                   "NORMAL" : 2,
-                  "POSITION" : 1,
+                  "POSITION" : 2,
                   "TEXCOORD_0" : 3
                },
                "indices" : 0,
